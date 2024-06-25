@@ -1,7 +1,5 @@
 name: woody_inventory
-description: >-
-Woody Inventory/Stock Management
-
+description: Woody Inventory/Stock Management
 version: 0.15.0+83
 
 environment:
